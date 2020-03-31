@@ -1129,6 +1129,13 @@
     "symbol": "KODA",
     "decimals": 0
   },
+  "0x2775f2a3c83bee1541d1d1bc308b3bb432b45151": {
+    "name": "Membership",
+    "logo": "MEMBERSHIP.svg",
+    "erc20": true,
+    "symbol": "PLANETAGRO.ORG",
+    "decimals": 18
+  },
   "0x8f8221aFbB33998d8584A2B05749bA73c37a938a": {
     "name": "Request",
     "logo": "request.svg",
